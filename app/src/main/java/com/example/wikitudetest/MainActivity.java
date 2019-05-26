@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //extra text
+    //extra text another extra text
 
     @Override
     protected void onPostCreate(final Bundle savedInstanceState){
